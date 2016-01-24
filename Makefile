@@ -8,6 +8,7 @@ dist/flag/%.png: src/flag/%.svg
 dist: $(FLAGS)
 	mkdir -p dist
 	cp -rf src/* dist
+	rm dist/flag/*.svg
 
 .PHONY: deploy
 deploy: dist
