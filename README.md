@@ -1,4 +1,4 @@
-# ahawkins.xyz
+# ahawkins.me
 
 Personal landing site for links to all things me
 
